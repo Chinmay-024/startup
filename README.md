@@ -66,3 +66,5 @@ The app comprises both frontend and backend components, offering a visually appe
 
 Visit [http://localhost:3000](http://localhost:3000) to access the Startup Directory Web App.
 
+Deployment Link : [Startup-Directory-App](https://startup-frontend-hfcp045f3-chinmay-024.vercel.app/)
+
