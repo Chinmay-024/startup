@@ -68,3 +68,13 @@ Visit [http://localhost:3000](http://localhost:3000) to access the Startup Direc
 
 Deployment Link : [Startup-Directory-App](https://startup-frontend-hfcp045f3-chinmay-024.vercel.app/)
 
+### Screenshots
+
+Home Page
+
+![Home](https://drive.google.com/uc?export=view&id=1X8SygockmHzriCiQCwWKx1ws2dtoNvDM)
+
+
+Add Startup
+
+![Startup](https://drive.google.com/uc?export=view&id=19bVxlHsp6q4ZBabecLEz846I0L7bi9k1)
